@@ -20,5 +20,5 @@ It includes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   git clone  https://navinraj2405.github.io/Quiz-project/
    cd react-quiz-app
